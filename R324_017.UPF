@@ -1,0 +1,18 @@
+REPORT NAME="Iзотоп.Видаткова накладна - Активнiсть (28.09.18)" PAGESIZE=58
+*GROUP
+*HEAD
+Iзотоп.Видаткова накладна - Активнiсть (28.09.18)
+*END
+AVTOR=└фьшэшёЄЁрЄюЁ
+DATA=07/09/18
+TYPE=TABLE324
+LANGUAGE=2
+LAW=1
+FR=1
+[RESOURCES]
+0
+3
+5
+11
+13
+[END OF RESOURCES]
